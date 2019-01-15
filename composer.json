@@ -1,0 +1,14 @@
+{
+    "name": "duoyin/ceshi",
+    "description": "a composer ceshi",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangming",
+            "email": "1301495305@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
