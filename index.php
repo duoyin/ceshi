@@ -1,2 +1,3 @@
 <?php
-echo '11';
+include 'vendor/autoload.php';
+\core\Bootstrap::run();
